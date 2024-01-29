@@ -35,3 +35,6 @@ def board_list():
 
 
 print(len(board_list()))
+
+
+print('Привет, мир!')
